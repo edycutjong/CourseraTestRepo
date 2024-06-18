@@ -1,2 +1,1 @@
-# CourseraTestRepo
-Sample repository created for Coursera test purposes. Contains demo files and exercises.
+I am editing the README file. Adding some more details about the project description.
